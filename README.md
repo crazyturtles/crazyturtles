@@ -66,7 +66,7 @@ I hope this gives you a glimpse into who I am.
 
 ## **🎓 Education**
 
-- Digital Media and IT - Computer Software Development Concentration, [NAIT](https://www.nait.ca/programs/dmit-computer-software-development?term=2023-spring) - Loading…
+- Digital Media and IT - Computer Software Development Concentration, [NAIT](https://www.nait.ca/programs/dmit-computer-software-development?term=2024-fall) - Loading…
 
 ## **🎯 Hobbies**
 
