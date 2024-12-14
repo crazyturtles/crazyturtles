@@ -80,5 +80,5 @@ When I'm not coding, you can find me:
 ## **📫 Contact Me**
 
 **[![LinkedIn](icons8-linkedin.svg "Follow me on LinkedIn")](https://www.linkedin.com/in/rohanmatharu//)**
-**[![Twitter](icons8-twitter.svg "Follow me on Twitter")](https://twitter.com/crazyturt1es//)**
+**[![Twitter](icons8-twitter.svg "Follow me on Twitter")](https://x.com/crazyturt1es//)**
 **[![Email](icons8-email-48.png "Email me")](mailto:rohanmatharu@live.ca)**
