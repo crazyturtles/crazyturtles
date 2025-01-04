@@ -26,9 +26,9 @@ I hope this gives you a glimpse into who I am.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)-->
-<!--![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)-->
-<!--![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)-->
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -66,7 +66,7 @@ I hope this gives you a glimpse into who I am.
 
 ## **🎓 Education**
 
-- Digital Media and IT - Computer Software Development Concentration, [NAIT](https://www.nait.ca/programs/dmit-computer-software-development?term=2024-fall) - Loading…
+- Digital Media and IT - Computer Software Development Concentration, [NAIT](https://www.nait.ca/programs/dmit-computer-software-development?term=2024-fall)
 
 ## **🎯 Hobbies**
 
@@ -74,7 +74,7 @@ When I'm not coding, you can find me:
 
 - At a march for a Free Palestine 🍉
 - Playing badminton 🏸 or football (aka soccer) ⚽
-- Gaming (Mostly Rocket League, Sekiro, Teamfight Tactics and Magicraft) 🎮
+- Gaming (Mostly Marvel Rivals, Elden Ring, Teamfight Tactics) 🎮
 - Watching YouTube 📹
 
 ## **📫 Contact Me**
